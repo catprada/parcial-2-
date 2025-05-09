@@ -1,26 +1,10 @@
-/*reset basico */
-*,
-*::before
-*::after
-{
- margin: 0; 
- padding: 0;  
- box-sizing: border-box;
-} 
-html{
-    scroll-behavior: smooth;
-    -webkit-text-size-adjust: 100%;
-}
-    body{
-        min-height: 100vh;
-        line-height: 1.5;
-        -webkit-font-feature-settings: 100%;
-    }
+
+
 
 /* cuerpo del sitio */
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color: brown;
+    background-color: rgb(150, 32, 32);
     color: #000;
     line-height: 1.6;
     padding: 20px;
